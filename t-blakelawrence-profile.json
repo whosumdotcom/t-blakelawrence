@@ -1,20 +1,39 @@
 {
   "TermsOfServiceVersion": 1,
-  "TermsAgreedToWhen": "2023-04-13T02:09:52Z",
+  "TermsAgreedToWhen": "2023-04-17T17:03:14Z",
   "IdClaims": [
     {
       "Claim": "t:blakelawrence"
+    },
+    {
+      "Claim": "mdon:@blakelawrence@sfba.social"
+    },
+    {
+      "Claim": "post:blakelawrence"
+    },
+    {
+      "Claim": "spout:blakelawrence"
+    },
+    {
+      "Claim": "yt:@blakelaw2"
     }
   ],
-  "IdDisclaims": null,
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    }
+  ],
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "3a3fe08178e41823a47fd3c0",
-    "Timestamp": "2023-04-13T02:10:33Z",
-    "Signature": "8b998bd6208ca9d32f9436dcc838955b9491a758e5e136bed1c6161a31e4240e1b0aa1b431d55be0e17b467cea2f40c4b80c354be6fcd9d8a1f34c228812a457210d97a4bdf0065801b8be28f0536d165cfad442384cb02778525f9215e18277e19e8af5034f91ea5fb95216457cf4b3025b567790fde13bd8ad3953181ec577a3e89abfeac8ec09537f13bca3b3b20fc6680f8a10635672964d0c486f72f35f996500f3fbaf62979637390aba0c5c534a6e1ff2b600721ac9dbdde22d1e9afe2e1d55175e16b44287560dc2cf306097becae476ebe7e24d46cf402aae9b881c1f398b6ae7513489ca534a044f09cc4ce0544c9bd99416858d7085091d4d13c5"
+    "Nonce": "55f4ab54e060a302614aaec4",
+    "Timestamp": "2023-04-17T17:10:15Z",
+    "Signature": "40d6b8c34811a5a55df79b8d242d155d3191437f846a095a801f85a85d62c8f45f7dbbbdf26a89a720e0afda56256f320835edd037e864a99782e18f29f65cc2efb092aba287d40074de1ce5862bdcf388d25a438cb407a59239d70726372179528b2c07595f049120f687805f6f8acf1df21762eed7471cec0cc2628f432eb8619020e47ac68567cb6751bb0bc35e57295a9f91fce571294ece03b82754adb6c47f9a6450f00790c7fc762e0f119cc80d2891214d6bedf90260f043da57df9ae2df096027f6ad6e54f4dbdfa5c870602c6088eea53bd9d10d701f36ab4fe0f4f1955d548b56db7d025c677882e6050fcc173b26c986204fc6e27366ae2c1f46"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "689f7ce5e838ed09f9511681c20a177e49a9cf2c38d971de11d693f0f72a933f",
-  "ContentToHash": "v1|t:blakelawrence|2023-04-13T02:09:52Z"
+  "ContentSha256": "4538affd83c5dc35488ec912b17d0bffbb37767e06a0787ed395be72748a2536",
+  "ContentToHash": "v1|mdon:@blakelawrence@sfba.social,med:no-account,pat:no-account,post:blakelawrence,spout:blakelawrence,t:blakelawrence,yt:@blakelaw2|2023-04-17T17:03:14Z"
 }
